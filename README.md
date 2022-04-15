@@ -1,4 +1,4 @@
-# [MIGRATED] FloraDB
+# FloraDB
 <p align="left">
   <a href="#"><img alt="Version" src="https://img.shields.io/badge/Language-Java-1DA1F2?style=flat-square&logo=java"></a>
   <a href="#"><img alt="Bot" src="https://img.shields.io/badge/Version-1.0-green"></a>
