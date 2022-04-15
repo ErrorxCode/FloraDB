@@ -8,8 +8,6 @@
 
 A modern scheme less No-Sql database written in java. World's 1st static database that is all about just one utility class. This database is purely written with java 16 SE and does not include any framwork or library classes. So you can use this on platform of java application.
 
-## 🎊🎊 Now FloraDB is migrated to [CloremDB](https://github.com/ErrorxCode/CloremDB)
-Now FloraDB is a part of [Clorabase](https://clorabase.tk). Please use this database from **CloremDB** as this project is going to shut-down soon.
 
 ## Features
 - Easy, simple and lightweight
